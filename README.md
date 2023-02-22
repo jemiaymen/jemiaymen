@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and deep learning
 - 🌱 I’m currently learning nlp
 - 💞️ I’m looking to collaborate on tunisian arabic dialect (TD)
-- 📫 How to reach me jemiaymen@gmail.com or +21655581027
+- 📫 How to reach me jemiaymen@gmail.com or +21652057597
 
 <!---
 jemiaymen/jemiaymen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
